@@ -10,7 +10,18 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2129db7-29d4-43b2-9bb7-f3c9ee6688e4.jpg
 layout_spectrum: 0.9603987005539238
-name: Web Slice
+author:
+  name: Helpy Media Inc.
+  email: info@helpymedia.com
+  url: helpymedia.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f793ffab-8d1e-4433-b49c-a7b2d9620786.png
+name: Web-Slice
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8840a1c-7e41-461c-8dcb-3a1f28d3388f.ico
 title: DIVE INTO WHAT MATTERS
 description: 'A useful slice of the web, only the best!'
