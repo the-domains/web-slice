@@ -1,0 +1,14 @@
+layout_spectrum: 0.9603987005539238
+typography_spectrum: 0.8846402647905052
+color:
+  brandStrength: 0.11239051958546042
+  lightness: 0.4724800428375602
+  saturation: 0.7217189299408346
+  rhythmicContrast: 0.5649849814362824
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Web Slice
